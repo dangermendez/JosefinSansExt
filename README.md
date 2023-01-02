@@ -9,4 +9,5 @@ Based on version 2.000.
 
 Sample image below: 
 
-<img width="1412" alt="Screen Shot 2023-01-02 at 9 40 23 AM" src="https://user-images.githubusercontent.com/88398714/210239113-80730e97-3fad-4787-89ec-d43186851c19.png">
+<img width="1412" alt="Screen Shot 2023-01-02 at 9 41 47 AM" src="https://user-images.githubusercontent.com/88398714/210239202-e5e9318a-d72e-4d3e-8193-867215ac4a92.png">
+
