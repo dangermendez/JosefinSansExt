@@ -1,5 +1,5 @@
 # JosefinSansExt
-A fork of Josefin Sans Regular (from Google Fonts), with Cyrillic and Greek support. Currently Regular only. More weights coming soon, and complete character set coming soon.
+A fork of Josefin Sans (from Google Fonts), with Cyrillic and Greek support. Currently Regular only. More weights coming soon, and complete character set coming soon.
 
 Greek glyphs partially designed by user Raiden-tiger (https://github.com/Raiden-tiger/) in January 2021, and refined by me. Cyrillic glyphs completely designed by me. Created using FontForge.
 
